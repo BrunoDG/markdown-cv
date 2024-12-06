@@ -1,91 +1,194 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bruno Dias Gonçalves' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Bruno Dias Gonçalves
+
+Full Stack Web and 3D interactive Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    Location: Rio de Janeiro, Rio de Janeiro, Brazil.
+    <br/>
+    Email: <a href="bruno@beveldrive.com.br">bruno@beveldrive.com.br</a>
+    | Portfolio: <a href="http://github.com/brunodg">GitHub</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working at FaliFeTec as a Full-Stack Web and Unity3D Game developer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- Front and Backend web-development
+- 3D graphics development (mainly using WebGL and Three.JS)
+- Javascript and Typescript
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Real-Time Rendering
+- WebGL, WebGPU and WebXR
+- Games on Browser
+- Interactive web experiences
 
+## Languages Spoken
+
+- __Portuguese__ - Native
+- __English__ - Fluent (C1)
+- __Spanish__ - Intermediary (B1)
+- __Japanese__ - Basic (N5)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2017`
+__UERJ - Universidade do Estado do Rio de Janeiro.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Rio de Janeiro, Rio de Janeiro, Brazil
+- BSc in Computer Sciences
 
-- Sizar
+`2024-2025`
+__Faculdade Libano__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Guarulhos, São Paulo, Brazil
+- Unity3D Game Development Post-Graduate course
 
-- Fellow
+## Work Experience
 
+`October 2024 - Present`
+__FaliFe Tecnologia e Inovação__ - __Fullstack web and Unity3D Game Developer (Contract)__, Rio de Janeiro, Brazil
 
+- Unity3D game development in C# with focus on mobile serious games for the company product as a test area, as well as Full Stack web development using Vue3, Typescript, NestJS and Node.
+- __Technologies used:__
+- Unity3D
+- C#
+- Typescript
+- Vue 3
+- NodeJS
+- NestJS
+- MySQL
 
-## Awards
+`November 2021 - Present`
+__Bevel Drive__ - __Web and Game Developer (Self-Employed)__, Rio de Janeiro, Brazil (Remote)
 
-`2012`
-President, *Royal Society*, London, UK
+- Multiple project scopes, including Game and Web development, using varied technologies that could benefit the client's current stack.
+- __Technologies used:__
+- Unity3D
+- C#
+- Javascript
+- Typescript
+- Vue 3
+- NodeJS
+- Three.JS
 
-Associate, *French Academy of Science*, Paris, France
+`October 2023 - June 2024`
+__GoToBiz__ - __Senior Developer__, Rio de Janeiro, Brazil
 
+- .NET systems development using C# technology, with HTML, CSS, Vanilla Javascript and MS SQL Server with MS Azure services. Also part of a microsservices system development using Python and FastAPI
+- __Technologies used:__
+- C#
+- .NET Entity Framework
+- MS SQL Server 201
+- Javascript
+- Python
+- FastAPI
 
+`February - October 2023`
+__FS Studio__ - __Typescript / Fullstack Web / Wordpress Developer (Freelance)__, California, United States of America (Remote)
 
-## Publications
+- API RESTful development for a Real Time VR Streaming service using Typescript, Express.js, Node.js and Needle Engine, while developing landing pages using Nuxt 3 and providing maintenance at their corporative Wordpress website
+- __Technologies used:__
+- Typescript
+- Express.JS
+- Node.JS
+- Needle Engine
+- Three.JS
+- Wordpress
+- Vue 3
+- Nuxt 3
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`November 2021 - September 2022`
+__OASIS Ventures__ - __Senior Fullstack Developer (Contract)__, Wyoming, United States of America (Remote)
 
-### Journals
+- Supporting the company's web system using React, Django and managing another developer while dealing directly with the client to gather knowledge over his platform and its needs
+- __Technologies used:__
+- Django
+- Python
+- React
+- Typescript
+- AWS
+  - EKS
+  - EC2
+  - IAM
+  - S3 Buckets
+  - Gateway
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`November 2020 - November 2021`
+__CERTI Foundation__ - __Researcher__, Florianópolis, Santa Catarina
 
-`1669`
-Lectiones opticæ.
+- OpenBIM and Lean 4.0 Developer. Working on innovation products for submarine platforms and Industry 4.0, mainly 3D web and Mobile (with Flutter) projects.
+- __Technologies used:__
+- Typescript
+- Angular
+- Node.JS
+- Node_RED
+- Three.JS
+- IFC.JS
+- Flutter
+- Dart
 
-etc. etc. etc.
+`September 2019 - July 2020`
+__Bemobi__ - __Mid Backend Developer__, Rio de Janeiro, Brazil
 
-### Patents
+- Mobile Kotlin, Java and Unity3D reverse engineering, using tools like apktool and ILSpy to remove ads and in-app purchases from mobile apps whithin the company's app store, while also giving maintenance on the core appstore's backend system, entirely developed in Django 1.10.
+- __Technologies used:__
+- Python
+- Django
+- Android
+- Java
+- Kotlin
+- Unity3D
+- C#
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`July 2018 - September 2019`
+__TecGraf / PUC-Rio__ - __Junior Researcher / Specialist I__, Rio de Janeiro, Brazil
 
+- Computer Graphics and Test development using C# (Mainly Selenium), C++ and OpenGL for external client systems. Also was one of the main responsibles for the CI implementation with Jenkins on a big project that remained untested for more than 30 years until my arrival.
+- __Technologies used:__
+- Python
+- MkDocs
+- C++
+- OpenGL
+- C#
+- Selenium
 
-## Occupation
+`December 2016 - July 2018`
+__Globo (Formerly Globosat)__ - __Digital Advisor I__, Rio de Janeiro, Brazil
 
-`1600`
-__Royal Mint__, London
+- Hardware platform maintenance, internal tools development for the company's Branding sector using Python and Javascript (with graphical tools such as Bootstrap and D3.js). Also worked as an advisor for VR and AR internal projects using Unity3D altogether with other company's sectors and helped to develop JSX extensions for Adobe After Effects.
+- __Technologies used:__
+- Python
+- Bootstrap
+- JavaScript
+- D3.JS
+- Three.JS
+- Unity3D
+- C#
+- Adobe After Effects
+- Adobe Premiere
 
-- Warden
-- Minted coins
+`May 2012 - January 2014`
+__EY__ - __Advisory Consultant__, Rio de Janeiro, Brazil
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Web development for internal auditing tools using Classic ASP and Javascript, using JQuery and Prototype.js tools. Also, I was the main responsible for the development of the base system for all future projects inside the tools development area, which reduced the company's costs at least R$ 35M with third-party system development.
+- __Technologies used:__
+- Classic ASP
+- ASP.Net
+- MS SQL Server 2012 R2
+- Javascript
+- Prototype.js
+- JQuery
+- Bootstrap
 
+## Last Updated at
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+December 6th, 2024
