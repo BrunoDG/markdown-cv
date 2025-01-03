@@ -41,7 +41,8 @@ Working at FaliFeTec as a Full-Stack Web and Unity3D Game developer
 ## Education
 
 `February 2008 - September 2017`
-__UERJ - Universidade do Estado do Rio de Janeiro.__
+__UERJ__<br/>
+__Universidade do Estado do Rio de Janeiro.__
 
 - Rio de Janeiro, Rio de Janeiro, Brazil
 - BSc in Computer Sciences
@@ -56,7 +57,8 @@ __Faculdade Libano__
 
 `October 2024 - Present`
 __FaliFe Tecnologia e Inovação__<br/>
-__Fullstack web and Unity3D Game Developer (Contract)__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Fullstack web and Unity3D Game Developer (Contract)__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Unity3D game development in C# with focus on mobile serious games for the company product as a test area, as well as Full Stack web development using Vue3, Typescript, NestJS and Node.
 - __Technologies used:__
@@ -70,7 +72,8 @@ __Fullstack web and Unity3D Game Developer (Contract)__, Rio de Janeiro, Rio de 
 
 `November 2021 - Present`
 __Bevel Drive__<br/>
-__Web and Game Developer (Self-Employed)__, Rio de Janeiro, Rio de Janeiro, Brazil (Remote)
+__Web and Game Developer (Self-Employed)__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil (Remote)__
 
 - Multiple project scopes, including Game and Web development, using varied technologies that could benefit the client's current stack.
 - __Technologies used:__
@@ -84,7 +87,8 @@ __Web and Game Developer (Self-Employed)__, Rio de Janeiro, Rio de Janeiro, Braz
 
 `October 2023 - June 2024`
 __GoToBiz__<br/>
-__Senior Developer__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Senior Developer__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - .NET systems development using C# technology, with HTML, CSS, Vanilla Javascript and MS SQL Server with MS Azure services. Also part of a microsservices system development using Python and FastAPI
 - __Technologies used:__
@@ -97,7 +101,8 @@ __Senior Developer__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `February - October 2023`
 __FS Studio__<br/>
-__Typescript / Fullstack Web / Wordpress Developer (Freelance)__, California, United States of America (Remote)
+__Typescript / Fullstack Web Developer (Freelance)__, <br/>
+__California, United States of America (Remote)__
 
 - API RESTful development for a Real Time VR Streaming service using Typescript, Express.js, Node.js and Needle Engine, while developing landing pages using Nuxt 3 and providing maintenance at their corporative Wordpress website
 - __Technologies used:__
@@ -112,7 +117,8 @@ __Typescript / Fullstack Web / Wordpress Developer (Freelance)__, California, Un
 
 `November 2021 - September 2022`
 __OASIS Ventures__<br/>
-__Senior Fullstack Developer (Contract)__, Wyoming, United States of America (Remote)
+__Senior Fullstack Developer (Contract)__, <br/>
+__Wyoming, United States of America (Remote)__
 
 - Supporting the company's web system using React, Django and managing another developer while dealing directly with the client to gather knowledge over his platform and its needs
 - __Technologies used:__
@@ -129,7 +135,8 @@ __Senior Fullstack Developer (Contract)__, Wyoming, United States of America (Re
 
 `November 2020 - November 2021`
 __CERTI Foundation__<br/>
-__Researcher__, Florianópolis, Santa Catarina, Brazil
+__Researcher__, <br/>
+__Florianópolis, Santa Catarina, Brazil__
 
 - OpenBIM and Lean 4.0 Developer. Working on innovation products for submarine platforms and Industry 4.0, mainly 3D web and Mobile (with Flutter) projects.
 - __Technologies used:__
@@ -144,7 +151,8 @@ __Researcher__, Florianópolis, Santa Catarina, Brazil
 
 `September 2019 - July 2020`
 __Bemobi__<br/>
-__Mid Backend Developer__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Mid Backend Developer__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Mobile Kotlin, Java and Unity3D reverse engineering, using tools like apktool and ILSpy to remove ads and in-app purchases from mobile apps whithin the company's app store, while also giving maintenance on the core appstore's backend system, entirely developed in Django 1.10.
 - __Technologies used:__
@@ -158,7 +166,8 @@ __Mid Backend Developer__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `July 2018 - September 2019`
 __TecGraf / PUC-Rio__<br/>
-__Junior Researcher / Specialist I__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Junior Researcher / Specialist I__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Computer Graphics and Test development using C# (Mainly Selenium), C++ and OpenGL for external client systems. Also was one of the main responsibles for the CI implementation with Jenkins on a big project that remained untested for more than 30 years until my arrival.
 - __Technologies used:__
@@ -171,7 +180,8 @@ __Junior Researcher / Specialist I__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `December 2016 - July 2018`
 __Globo (Formerly Globosat)__<br/>
-__Digital Advisor I__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Digital Advisor I__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Hardware platform maintenance, internal tools development for the company's Branding sector using Python and Javascript (with graphical tools such as Bootstrap and D3.js). Also worked as an advisor for VR and AR internal projects using Unity3D altogether with other company's sectors and helped to develop JSX extensions for Adobe After Effects.
 - __Technologies used:__
@@ -187,7 +197,8 @@ __Digital Advisor I__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `May 2012 - January 2014`
 __EY__<br/>
-__Advisory Consultant__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Advisory Consultant__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Web development for internal auditing tools using Classic ASP and Javascript, using JQuery and Prototype.js tools. Also, I was the main responsible for the development of the base system for all future projects inside the tools development area, which reduced the company's costs at least R$ 35M with third-party system development.
 - __Technologies used:__
@@ -203,7 +214,8 @@ __Advisory Consultant__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `June 2012 - Present`
 __AirTime Productions__<br/>
-__Head of Public Relations - SlipStream GX (Remote)__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Head of Public Relations - SlipStream GX (Remote)__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Public Relations responsible for the indie game SlipStream GX, done with other people on our free time While learning Unity3D and ocasionally helping on code.
 - __Technologies used:__
@@ -212,7 +224,8 @@ __Head of Public Relations - SlipStream GX (Remote)__, Rio de Janeiro, Rio de Ja
 
 `June - December 2016`
 __AgoraVai Corp__<br/>
-__Unity3D Game Developer (Freelance)__, Rio de Janeiro, Rio de Janeiro, Brazil
+__Unity3D Game Developer (Freelance)__, <br/>
+__Rio de Janeiro, Rio de Janeiro, Brazil__
 
 - Unity3D game development in C# with focus on Mobile Casual Games for a University Study group.
 - - __Technologies used:__
@@ -223,7 +236,8 @@ __Unity3D Game Developer (Freelance)__, Rio de Janeiro, Rio de Janeiro, Brazil
 
 `September 2022`
 __Patrício Gonzalez Vivo__<br/>
-__OpenGL Shader Crash Course Workshop__, Florianópolis, Santa Catarina, Brazil
+__OpenGL Shader Crash Course Workshop__, <br/>
+__Florianópolis, Santa Catarina, Brazil__
 
 - A 4h Crash course on OpenGL shaders and GLSL with Shaders expert Patrício Gonzalez Vivo, the writer of "The Book of Shaders".
 - __Technologies used:__
